@@ -27,7 +27,15 @@
 - [x] Week 4: Flow Control: Conditions and Loops
 - [x] Week 5: Functions: User-defined, Lambda, Built-ins, Callbacks, and Higher-Order Functions
 - [x] Week 6: Python Exception Handling: Try, Except, Else, and Finally
-- [ ] Week 7: OOP: Objects and Classes
+- [x] Week 7: OOP: Objects and Classes
+- [x] Week 8: Compositions, Aggregations, and Mixins
+- [x] Week 9: Encapsulation, Polymorphism, and Abstraction
+- [x] Week 10: Python File Handling with Python OS
+- [x] Week 11: Python Modules and the Main Function
+- [ ] Week 12: Python File Structuring for Projects
+- [ ] Week 13: Python Magic Methods
+- [ ] Week 14: Comprehensions
+- [ ] Week 15: More Python Techniques and Sample Projects with Libraries
 <!-- - [x] Week 7: OOP: Objects and Classes (Inner, multiple inner)
 - [x] Week 6: Recursion
 - [x] Week 8: OOP: Inheritance and Method Resolution Order
